@@ -1,0 +1,13 @@
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.csprojAssemblyReference.cache
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.AssemblyInfoInputs.cache
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.AssemblyInfo.cs
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.exe
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.deps.json
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.runtimeconfig.json
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.runtimeconfig.dev.json
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.dll
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\bin\Debug\netcoreapp3.1\daily lab 07-21-20.pdb
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.dll
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.pdb
+C:\Users\kress\source\repos\daily lab 07-21-20\daily lab 07-21-20\obj\Debug\netcoreapp3.1\daily lab 07-21-20.genruntimeconfig.cache
